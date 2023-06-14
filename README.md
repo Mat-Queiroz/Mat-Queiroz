@@ -6,11 +6,19 @@ OIOI!
 Cursando Analise e Desenvolvimento de Sistemas pela Nassau, estudo programação desde 2022
 </p>
 
-<div align="center"> Tech Stack </div> <br>
+
+<div align="center"> 
+   <img src=="https://github.com/Mat-Queiroz/Mat-Queiroz/assets/126326790/b697bd63-cd5e-4e1d-95bc-2a2719ad2daf.png"
+</div>
+
+<div align="center"> Tech Stack: </div> <br>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
+<br>
+<br>
 </div>
 
 <div align="center"> Contato:</div>
