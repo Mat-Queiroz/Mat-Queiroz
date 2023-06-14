@@ -7,7 +7,7 @@ Cursando Analise e Desenvolvimento de Sistemas pela Nassau, estudo programação
 </p>
 
 <div align="center"> 
-  
+   <img src==""
 </div>
 
 <div align="center"> Tech Stack </div> <br>
