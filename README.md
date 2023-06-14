@@ -6,10 +6,6 @@ OIOI!
 Cursando Analise e Desenvolvimento de Sistemas pela Nassau, estudo programação desde 2022
 </p>
 
-<div align="center"> 
-   <img src==""
-</div>
-
 <div align="center"> Tech Stack </div> <br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
