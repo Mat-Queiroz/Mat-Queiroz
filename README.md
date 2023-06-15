@@ -1,24 +1,29 @@
-<h2 align="left">
 OIOI!
-</h2>
+###
 
 <p>
-Cursando Analise e Desenvolvimento de Sistemas pela Nassau, estudo programação desde 2022
+Meu nome é Matheus e atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Nassau. <br>
+Estudante de programação desde 2022 🤠
 </p>
 
+##
 
-<div align="center"> 
-   <img src=="https://github.com/Mat-Queiroz/Mat-Queiroz/assets/126326790/b697bd63-cd5e-4e1d-95bc-2a2719ad2daf.png"
+<div align="center">
+  <a href="https://github.com/Mat-Queiroz">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Mat-Queiroz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Queiroz&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<div align="center"> Tech Stack: </div> <br>
+##
+
+<div align="center"> Tech Stack: </div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40">
-<br>
-<br>
 </div>
+
+##
 
 <div align="center"> Contato:</div>
 <br>
