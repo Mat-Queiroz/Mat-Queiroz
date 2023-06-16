@@ -11,6 +11,11 @@ Estudante de programação desde 2022 🤠
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Mat-Queiroz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mat-Queiroz&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+##
+<div align="center">
+  <img src="https://github.com/Mat-Queiroz/Mat-Queiroz/assets/126326790/ceea860f-9ee1-43c7-a274-d0b6c41695f0.jpg"
+</div>
     
 ##
 <div align="center"> Tech Stack: </div>
