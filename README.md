@@ -1,7 +1,7 @@
 OIOI!
 ###
 <p>
-Meu nome é Matheus e atualmente estou cursando Analise e Desenvolvimento de Sistemas pela Uninassau. <br>
+Meu nome é Matheus e atualmente estou cursando Analise e Desenvolvimento de Sistemas. <br>
 Estudante de programação desde 2022 🤠
 </p>
 
